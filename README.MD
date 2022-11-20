@@ -13,4 +13,4 @@
 
 アクティブ関数はSigmoid関数を使用します。
 
-$Sigmoid(x)=\frac{1}{1+e^-x}$
+$Sigmoid(x)=\frac{1}{1+e^{-x}}$
